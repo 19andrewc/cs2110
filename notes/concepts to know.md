@@ -52,3 +52,14 @@
 		- Simplification
 		- Implementation
 	- One-hot and Encoded State Machines
+
+- Basic CPU Components
+	- Memory, Processing Unit, Input & Output, Control Unit
+- Architectures
+	- Harvard
+	- Von Neumann
+- LC-3: A von Neumann Architecture
+- Tri-State Buffers
+- Instruction Cycle
+	- Instructions
+	- Fetch, Decode, Evaluate Address, Fetch Operands, Execute, Store Result
