@@ -1,1 +1,0 @@
-Please go to http://127.0.0.1:6901/vnc.html to access it.
