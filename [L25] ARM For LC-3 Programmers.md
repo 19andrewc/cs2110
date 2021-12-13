@@ -1,6 +1,6 @@
 # Instruction Set Architecture (ISA)
 - **ISA**: the binary "language" used to talk to a processor
-    - all of the programmer-visible components annd operations of the computer
+    - all of the programmer-visible components and operations of the computer
     - memory organization
         - address space: 2^32 memory addresses (LC-3 is 2^16)
         - addressability: 32 bits per location (LC-3 is 16)
